@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html,body{
+
+        width: 100%;
+        height: 100%;
+}
+
+#main{
+
+    width: 100%;
+    height: 100%;
+    background-color:#000;
+    display: flex;
+    color: #fff;
+    font-family: Gilroy;
+    font-weight: 100;
+    justify-content: center;
+    align-items: end;
+    padding: 20px;
+
+}
+
+#second{
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    width: 100%;
+    height: 100%;
+    background-color:rgba(255, 255, 0, 0.651);
+
+
+}
+
+#box{
+
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    background-color: #fff;
+}
